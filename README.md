@@ -6,4 +6,4 @@ I'm certified in Front End Engineering with frameworks and tools like React, Red
 
 I'm always open to new opportunities so feel free to email me at TheBrandonDelgado@gmail.com.
 
-My favorite personal projects are pinned below. Thanks for visiting  
+My favorite personal projects are pinned below. Thanks for visiting!

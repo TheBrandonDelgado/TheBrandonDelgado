@@ -1,4 +1,1 @@
-# Welcome!
-I'm a Full Stack Engineer with expertise and certifications in frameworks and tools like React, Redux, Node.js, Express, MedusaJS, Supabase, Chart.js, HTML, Tailwind CSS, JavaScript, and TypeScript. Always building.
-
-My favorite personal projects are pinned below. Thanks for visiting!
+Senior Full Stack Engineer with expertise in modern web architecture and a passion for creating elegant, high-performance applications. Specializing in React/Redux ecosystems, TypeScript, Node.js backends, and cloud infrastructure with Supabase. Experienced in leading technical projects, optimizing data operations, and delivering scalable solutions across e-commerce, fintech, and marketing sectors. Committed to clean code and continuous learning.

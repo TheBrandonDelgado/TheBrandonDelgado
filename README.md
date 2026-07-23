@@ -1,5 +1,11 @@
-Full-stack engineer building products from 0 to 1 across financial systems, crypto infrastructure, and consumer applications, including the industry's first integration between a Bitcoin Mining-as-a-Service platform and the OCEAN decentralized mining pool. That kind of work shapes how I think about engineering: systems should be fast, transparent, and accessible to the people who depend on them.
+### Hi, I'm Brandon
 
-I have deep expertise in TypeScript across the entire stack, from data model and API design to React on the frontend, and a track record of owning complex systems end-to-end. I've shipped automated billing infrastructure, real-time financial data engines, distributed queue systems, and modular architecture migrations, all in environments where getting it wrong had real consequences. I've also completed certifications in Claude Code and LangChain, and use AI-assisted development as a core part of my daily workflow.
+Senior full-stack engineer (TypeScript · React · Node · Postgres). I build **end-to-end product systems**—commerce, money-correct financial software, and operational tooling—inside businesses that own the full customer loop.
 
-I believe we're living through one of the most consequential periods in human history. The companies building today in financial infrastructure, AI, energy, and beyond are laying the foundation for a genuinely better world, and I want to spend my career writing the software that makes that future real.
+**Now:** full-stack engineering at a Bitcoin Mining-as-a-Service company—event-driven ledgers, Medusa commerce, multi-facility ops dispatch, pool integrations, AI-first eng workflows.
+
+**Stack:** TypeScript, React / Next / TanStack, NestJS / Express, PostgreSQL, Redis, Supabase, CI/CD.
+
+**AI-first:** Claude Code + Cursor day-to-day; knowledge bases for real production systems.
+
+🌐 [brandon-delgado.com](https://brandon-delgado.com) · 💼 [LinkedIn](https://www.linkedin.com/in/thebrandondelgado/)

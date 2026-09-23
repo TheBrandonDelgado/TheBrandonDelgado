@@ -4,7 +4,7 @@ Senior full-stack engineer (TypeScript · React · Node · Postgres). I build **
 
 **Now:** sole owner of the customer dashboard at a Bitcoin Mining-as-a-Service company; also event-driven ledgers, Medusa commerce, multi-facility ops dispatch, pool integrations, AI-first eng workflows.
 
-**Stack:** TypeScript, React / Next / TanStack, NestJS / Express, PostgreSQL, Redis, Supabase, CI/CD.
+**Stack:** TypeScript, React / Vite / TanStack, NestJS / Express, PostgreSQL, Redis, Supabase, Bun, CI/CD.
 
 **AI-first:** Claude Code + Cursor day-to-day; LangChain-aware agentic workflows; knowledge bases for real production systems.
 
